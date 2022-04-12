@@ -12,6 +12,7 @@ hi, i'm windaa，Currently working on Android security and vulnerability mining
 - 💬 ask me about anything, i am happy to help;
 
 ## Research
+### [Android APP漏洞挖掘系列](https://github.com/guoxuaa/Android-Vulnerability-Mining)
 - Mobile Android Security
 - Android Vulnerability Mining
 - Android reverse analysis
