@@ -58,11 +58,8 @@ if you like study and discuss Android Security, join my knowledge planet🥺👉
 ## status
 
 📈 my github stats
-| | | |
-| :--: | :--: | :--: |
-| `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
-[dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
+<code><img height="20" src="https://github-readme-stats.vercel.app/api?username=WindXaa&show_icons=true&theme=radical"></code>
 
 
 
