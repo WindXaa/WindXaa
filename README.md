@@ -59,7 +59,7 @@ if you like study and discuss Android Security, join my knowledge planet🥺👉
 
 📈 my github stats
 
-<code><img src="https://github-readme-stats.vercel.app/api?username=WindXaa&show_icons=true&theme=radical"></code>
+
 
 
 
