@@ -22,7 +22,7 @@ hi, i'm windaa，Currently working on Android security and vulnerability mining
 - 吾爱破解：https://www.52pojie.cn/home.php?mod=space&uid=1426438&do=thread&view=me&from=space)
 - 看雪论坛：https://bbs.pediy.com/user-home-905443.htm
 - CSDN: https://blog.csdn.net/qq_41882522?spm=1008.2028.3001.5343
-- 微信公众号：安全邸报
+- 微信公众号：安全后厨
 - 知识星球：[安全后厨](https://wx.zsxq.com/dweb2/index/group/51122855512824)
 
 ## Others
