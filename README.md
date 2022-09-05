@@ -22,8 +22,11 @@ hi, i'm windaa，Currently working on Android security and vulnerability mining
 - Android reverse analysis
 
 ### [Android 安全论文精选](https://github.com/WindXaa/Android-security-paper)
-- Android Vulnerability Mining
-- Android reverse analysis
+- Android恶意应用检测
+- Android漏洞挖掘
+- Android隐私合规检测
+- Android混淆技术研究
+- Android脱壳技术研究
 
 ## Contact Me
 - 微信号：WindXaa
