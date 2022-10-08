@@ -17,6 +17,14 @@ hi, i'm windaa，Currently working on Android security and vulnerability mining
 - Android Vulnerability Mining
 - Android reverse analysis
 
+### [Android逆向系列](https://github.com/WindXaa/Android-reverse)
+- 加壳与脱壳
+- Xposed/Frida定制
+- 静态分析框架
+- 动态分析框架
+- 隐私合规分析框架
+- 恶意应用检测框架
+
 ### [Android 安全面试宝典](https://github.com/WindXaa/Android-Reverse-interview)
 - Android Vulnerability Mining
 - Android reverse analysis
