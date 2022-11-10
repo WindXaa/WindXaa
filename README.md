@@ -75,9 +75,9 @@ if you like study and discuss Android Security, join my knowledge planet🥺👉
 <img  src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/98a3b3b41f43053e7bed3a2240bfb4bad89830e9.png">
 <img  src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/90964e1418c0c0b59a3707da21120f1cafd6fdee.jpg">
 
-微信群：安全后厨
+微信群：安全后厨（考虑太多广告号，要加群朋友，加小编回复：安全后厨）
 
-![](https://i0.hdslb.com/bfs/album/3650d67d26f3a190a9e105e67d8840833be31262.png)
+![640](https://tva3.sinaimg.cn/wap360/006jP03Oly1h7zufjtez2j30tu14fjur.jpg)
 
 
 ## status
